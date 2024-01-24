@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100;0,9..144,200;0,9..144,400;1,9..144,100;1,9..144,400&family=Montserrat:ital,wght@0,200;1,300&display=swap');
+
+:root {
+    --cyan: hsl(158, 36%, 37%);
+    --darkcyan: hsl(159, 91%, 9%);
+    --cream: hsl(30, 38%, 92%);
+    --darkblue: hsl(212, 22%, 14%);
+    --font: 14px;
+    --mobile: 375px;
+    --desktop: 1440px;
+    --montserrat: 'Montserrat', sans-serif;
+    --fraunces:'Fraunces', serif;
+
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    height: 100%;
+}
+
+body{
+    width: 100%;
+    background-color: var(--cream);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width: 600px;
+    height: 447px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 28px;}
+
+    .card-image img {
+        width: 297px;
+        height: 100%;
+        border-bottom-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+
+    }
+
+    
