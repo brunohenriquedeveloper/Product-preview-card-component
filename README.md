@@ -4,4 +4,4 @@
 
 This is a challenge from Frontend Mentor.
 
-my solution is here: <a href="https://brunohenriquedeveloper.github.io/Product-preview-card-component/">click in this link</a>
+my solution is here: <a href="https://brunohenriquedeveloper.github.io/Product-preview-card-component/">click in this link.</a>
