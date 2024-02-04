@@ -4,7 +4,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,300&display=swap');
 
-
+/* Comando que facilita cesso de dados no CSS */
 :root {
     --cyan: hsl(158, 36%, 37%);
     --darkcyan: hsl(159, 91%, 9%);
